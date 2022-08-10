@@ -1,2 +1,2 @@
 # Crud-Server-App
-A create,read,update and delete application that runs a server written in GoLang, capable of hosting front end application for the CRUD functions.
+A Server written in Golang capable of hosting front end applications with Routing and C.R.U.D functions. 
